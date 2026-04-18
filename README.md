@@ -1,4 +1,7 @@
 # SMS_Spam_detection
 
-Detects spams in messages using various ML models .
-This is a classification type problem.
+This is a **classification** type problem.
+
+Detects spams in messages using mainly 3 ML models , along with their hyper-parameter tuned versions.
+
+The 'SMS Spam Collection Dataset' from Kaggle has been used here.
